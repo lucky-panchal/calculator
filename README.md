@@ -1,4 +1,5 @@
 Calculator.js: a node.js Demonstration Project
+now i got it on my local system. hehhe
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
